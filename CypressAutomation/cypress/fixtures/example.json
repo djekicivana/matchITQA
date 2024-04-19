@@ -1,0 +1,10 @@
+{
+  "projectName": "Test CY",
+  "aboutProject": "A lot of characters that mean nothing.",
+  "namePosition": "Fixtures are great",
+  "minSalary": "800",
+  "maxSalary": "1800",
+  "shortEmailAddress": "test",
+  "wrongEmail" : "test@test.rs"
+
+}
